@@ -1,0 +1,9 @@
+RewriteEngine On
+RewriteRule ^id$ /id.html [L]
+RewriteRule ^home$ /home.html [L]
+RewriteRule ^documents$ /documents.html [L]
+RewriteRule ^card$ /card.html [L]
+RewriteRule ^more$ /more.html [L]
+RewriteRule ^services$ /services.html [L]
+RewriteRule ^qr$ /qr.html [L]
+RewriteRule ^testing$ /test.html [L]
